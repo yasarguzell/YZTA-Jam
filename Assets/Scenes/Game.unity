@@ -739,7 +739,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3872fb9fe8b96b4bb7b7392eea54a9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correctSlot: {fileID: 14911370}
+  correctSlot: {fileID: 1346839702}
 --- !u!225 &712541393
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -2233,7 +2233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3872fb9fe8b96b4bb7b7392eea54a9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correctSlot: {fileID: 1346839702}
+  correctSlot: {fileID: 14911370}
 --- !u!225 &1597609000
 CanvasGroup:
   m_ObjectHideFlags: 0
